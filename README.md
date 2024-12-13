@@ -1,11 +1,11 @@
 # SEGMA Cloud Computing
 
-<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/assets/gcp.png" width="100%" height="50%">
+<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/blob/main/assets/gcp.png" width="100%" height="50%">
 
 ## Technology Used
 
 #### Cloud Run
-<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/assets/cloud-run.png" width="70px" height="75px">
+<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/blob/main/assets/cloud-run.png" width="70px" height="75px">
 <br>
 <pre>
    <span style="font-size: 18px; color: #3366cc;">Location : asia-southeast2 (Jakarta) </span>
@@ -14,7 +14,7 @@
 </pre>
 
 #### Artifact Registry
-<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/assets/artifact-registry.png" width="70px" height="75px">
+<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing/blob/main/assets/artifact-registry.png" width="70px" height="75px">
 <br>
 <pre>
    <span style="font-size: 18px; color: #3366cc;">Storage : 10 GB...</span>
